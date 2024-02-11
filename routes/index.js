@@ -12,3 +12,5 @@ router.get('/health', (req, res, next) => {
 });
 
 module.exports = router;
+
+/* non in uso per il momento */
